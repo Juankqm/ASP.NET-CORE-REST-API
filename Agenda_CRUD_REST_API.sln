@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda_CRUD_REST_API", "Agenda_CRUD_REST_API\Agenda_CRUD_REST_API.csproj", "{7C8C13CE-D5F0-4774-9F08-100BA242F239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8C13CE-D5F0-4774-9F08-100BA242F239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8C13CE-D5F0-4774-9F08-100BA242F239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8C13CE-D5F0-4774-9F08-100BA242F239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8C13CE-D5F0-4774-9F08-100BA242F239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EF4137D-91F9-448C-B378-761EBCE2CCAA}
+	EndGlobalSection
+EndGlobal
